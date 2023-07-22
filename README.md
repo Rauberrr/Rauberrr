@@ -1,7 +1,13 @@
-### Olá! Eu sou André Rauber 🎈
+#### Olá! Eu sou André Rauber 🎈
+
+#### 🔫 Web developer
+
+📚 I'm studying backend now and I'm focused on nodejs.
+
+🔮 I Want to become one exellent programmer.
 
 
-#### My Skills
+### Here are my Skills 
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Rauberrr/nodejs-project)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Rauberrr/nodejs-project)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Rauberrr/projectX)
@@ -10,7 +16,13 @@
 
 ##
 
-#### Graphics
+### Graphics
+
+#### Studies
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64bafe998a29ad56faa17bf4?variant=dark)](https://roadmap.sh)
+
+#### Langs
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauberrr)](https://github.com/Rauberrr/nodejs-project)
 
