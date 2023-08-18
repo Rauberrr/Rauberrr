@@ -18,10 +18,6 @@
 
 ### Graphics
 
-#### Studies
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64bafe998a29ad56faa17bf4?variant=dark)](https://roadmap.sh)
-
 #### Langs
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauberrr)](https://github.com/Rauberrr/nodejs-project)
