@@ -14,13 +14,6 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Rauberrr/projectX)
 [![Expressjs](https://img.shields.io/badge/Express.js-5C2D91?style=for-the-badge)](https://github.com/Rauberrr/nodejs-project)
 
-##
-
-### Graphics
-
-#### Langs
-
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauberrr)](https://github.com/Rauberrr/nodejs-project)
 
 ##
 
