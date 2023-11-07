@@ -26,4 +26,4 @@
 
 ##
 #### Main Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rauberrr&repo=nodejs-project)](https://github.com/rauberrr/nodejs-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rauberrr&repo=login-shop)](https://github.com/rauberrr/login-shop)
